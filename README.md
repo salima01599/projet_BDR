@@ -1,13 +1,13 @@
-# Mon Projet Web
+# 🏨 Système de Gestion Hôtelière
 
-Ce projet contient une page web réalisée avec HTML, CSS (et éventuellement JavaScript).
+Projet réalisé dans le cadre du cours de Base de Données 
 
 ## 🔗 Liens utiles
 
 - 📹 [Voir la vidéo de démonstration](https://drive.google.com/file/d/175FI__Dy5ov3Q-6DnM2Zl-H1wvuucU4s/view?usp=drive_link)
 
-## 📁 Contenu du projet
+## 📦 Fonctionnalités principales
 
-- `index.html` – page principale
-- `style.css` – mise en forme
-- `script.js` – comportements interactifs (si présent)
+- Ajout de clients et réservations
+- Visualisation des chambres disponibles
+- Statistiques sur les hôtels, clients et réservations
